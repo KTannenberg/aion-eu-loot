@@ -1,6 +1,6 @@
 # Loot tracking repo for Aion EU
 
-For Legandary loot use ![#dc44f0](https://via.placeholder.com/15/dc44f0/dc44f0?text=+)
+For Legandary loot use ![#dc44f0](https://via.placeholder.com/15/dc44f0/000000?text=+)
 ```
 ![#dc44f0](https://via.placeholder.com/15/c5f015/dc44f0?text=+)
 ```
