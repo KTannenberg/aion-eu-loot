@@ -6,7 +6,7 @@ Distributed items:
 # Group 1
 | Character | Item | Count |
 | --- | --- | --- |
-| Blush/Yosya | ![](https://via.placeholder.com/15/ff4b4b/000000?text=+) Ultimate Ambush Weapons Selection Box | 
+| Blush/Yosya | ![](https://via.placeholder.com/15/ff4b4b/000000?text=+) Ultimate Ambush Weapons Selection Box | 2
 | Chanterelle/Ministress | ![](https://via.placeholder.com/15/ff4b4b/000000?text=+) Ultimate Ambush Weapons Selection Box | 1
 | Lockie | ![](https://via.placeholder.com/15/ff4b4b/000000?text=+) Ultimate Ambush Weapons Selection Box | 
 | Pepsis/Veez | ![](https://via.placeholder.com/15/ff4b4b/000000?text=+) Ultimate Ambush Weapons Selection Box | 1
